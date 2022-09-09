@@ -595,15 +595,32 @@ h3{
     border-radius: 0px;
 }
 
+/*---------- Thank -------------*/
 
-
-
-
-
-
-
-
-
-
-
-
+.thank{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+.thank-col{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: center;
+}
+.thank-col img{
+    width: 35%;
+    border-radius: 10px;
+}
+.thank-col p{
+    padding: 0;
+}
+.thank-col h3{
+    margin-top: 16px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.thank-col p{
+    text-align: center;
+}
